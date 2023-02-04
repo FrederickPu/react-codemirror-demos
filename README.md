@@ -7,7 +7,7 @@ Common Errors:
 ```javascript
 // <StrictMode>
   <App />
-  // </StrictMode>
+// </StrictMode>
 ```
 
 - Not importing _codemirror/lib/codemirror.css_: this will cause text to jump out off the editor whenever the Controlled/UnControlled editor componenet is placed in a div with multiple components.
