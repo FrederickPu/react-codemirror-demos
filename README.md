@@ -2,7 +2,7 @@
 
 Common Errors:
 
-- Forgeting to disable strict mode: Strict mode will cause a double editor error. See (source)[https://stackoverflow.com/questions/72464452/codemirror-editor-duplicating] for more details
+- Forgeting to disable strict mode (in the index.js file): Strict mode will cause a double editor error. See (source)[https://stackoverflow.com/questions/72464452/codemirror-editor-duplicating] for more details
 
 ```javascript
 // <StrictMode>
